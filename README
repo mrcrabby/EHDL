@@ -1,0 +1,7 @@
+need to install lxml
+
+usage:
+
+  python EHDL.py in.txt
+
+each line in in.txt is URL of comic
